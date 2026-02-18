@@ -1,0 +1,15 @@
+C:\Users\Leonid\Desktop\СЮЮЮДАААА\bin\Debug\net10.0\СЮЮЮДАААА.exe
+C:\Users\Leonid\Desktop\СЮЮЮДАААА\bin\Debug\net10.0\СЮЮЮДАААА.deps.json
+C:\Users\Leonid\Desktop\СЮЮЮДАААА\bin\Debug\net10.0\СЮЮЮДАААА.runtimeconfig.json
+C:\Users\Leonid\Desktop\СЮЮЮДАААА\bin\Debug\net10.0\СЮЮЮДАААА.dll
+C:\Users\Leonid\Desktop\СЮЮЮДАААА\bin\Debug\net10.0\СЮЮЮДАААА.pdb
+C:\Users\Leonid\Desktop\СЮЮЮДАААА\obj\Debug\net10.0\СЮЮЮДАААА.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonid\Desktop\СЮЮЮДАААА\obj\Debug\net10.0\СЮЮЮДАААА.AssemblyInfoInputs.cache
+C:\Users\Leonid\Desktop\СЮЮЮДАААА\obj\Debug\net10.0\СЮЮЮДАААА.AssemblyInfo.cs
+C:\Users\Leonid\Desktop\СЮЮЮДАААА\obj\Debug\net10.0\СЮЮЮДАААА.csproj.CoreCompileInputs.cache
+C:\Users\Leonid\Desktop\СЮЮЮДАААА\obj\Debug\net10.0\СЮЮЮДАААА.sourcelink.json
+C:\Users\Leonid\Desktop\СЮЮЮДАААА\obj\Debug\net10.0\СЮЮЮДАААА.dll
+C:\Users\Leonid\Desktop\СЮЮЮДАААА\obj\Debug\net10.0\refint\СЮЮЮДАААА.dll
+C:\Users\Leonid\Desktop\СЮЮЮДАААА\obj\Debug\net10.0\СЮЮЮДАААА.pdb
+C:\Users\Leonid\Desktop\СЮЮЮДАААА\obj\Debug\net10.0\СЮЮЮДАААА.genruntimeconfig.cache
+C:\Users\Leonid\Desktop\СЮЮЮДАААА\obj\Debug\net10.0\ref\СЮЮЮДАААА.dll
